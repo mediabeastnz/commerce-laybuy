@@ -1,6 +1,6 @@
 <p align="center"><img src="./src/icon.svg" width="100" height="100" alt="Laybuy for Craft Commerce icon"></p>
 
-<h1 align="center">Layubuy for Craft Commerce</h1>
+<h1 align="center">Laybuy for Craft Commerce</h1>
 
 This plugin provides an [Laybuy](https://www.laybuy.com) integration for [Craft Commerce](https://craftcms.com/commerce).
 
