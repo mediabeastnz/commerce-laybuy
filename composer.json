@@ -1,0 +1,46 @@
+{
+  "name": "mediabeastnz/commerce-laybuy",
+  "description": "Laybuy integration for Craft Commerce 2",
+  "version": "1.0.0",
+  "type": "craft-plugin",
+  "keywords": [
+    "laybuy",
+    "lay buy",
+    "gateway",
+    "commerce",
+    "craftcms",
+    "omnipay",
+    "yii2"
+  ],
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Myles Derham",
+      "homepage": "https://github.com/mediabeastnz"
+    }
+  ],
+  "support": {
+    "email": "myles.derham@gmail.com",
+    "issues": "https://github.com/mediabeastnz/commerce-laybuy/issues?state=open",
+    "source": "https://github.com/mediabeastnz/commerce-laybuy",
+    "docs": "https://github.com/mediabeastnz/commerce-laybuy",
+    "rss": "https://github.com/mediabeastnz/commerce-laybuy/commits/master.atom"
+  },
+  "require": {
+    "craftcms/cms": "^3.0.0",
+    "craftcms/commerce": "^2.0.0",
+    "craftcms/commerce-omnipay": "^1.0.0",
+    "mediabeastnz/omnipay-laybuy": "^2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "mediabeastnz\\laybuy\\": "src/"
+    }
+  },
+
+  "extra": {
+    "name": "Laybuy gateway for Craft Commerce 2",
+    "handle": "craft-commerce-laybuy",
+    "schemaVersion": "1.0.0"
+  }
+}
