@@ -1,7 +1,7 @@
 {
   "name": "mediabeastnz/commerce-laybuy",
   "description": "Laybuy integration for Craft Commerce 2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "craft-plugin",
   "keywords": [
     "laybuy",
@@ -40,8 +40,8 @@
 
   "extra": {
     "name": "Laybuy gateway for Craft Commerce 2",
-    "handle": "craft-commerce-laybuy",
+    "handle": "laybuy-for-craft-commerce-2",
     "changelogUrl": "https://raw.githubusercontent.com/mediabeastnz/commerce-laybuy/master/CHANGELOG.md",
-    "schemaVersion": "1.0.1"
+    "schemaVersion": "1.0.2"
   }
 }
