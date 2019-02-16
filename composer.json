@@ -42,6 +42,6 @@
     "name": "Laybuy gateway for Craft Commerce 2",
     "handle": "laybuy-for-craft-commerce-2",
     "changelogUrl": "https://raw.githubusercontent.com/mediabeastnz/commerce-laybuy/master/CHANGELOG.md",
-    "schemaVersion": "1.0.2"
+    "schemaVersion": "1.0.3"
   }
 }

@@ -51,7 +51,7 @@ class Laybuy extends OffsiteGateway
      */
     public function getSettingsHtml()
     {
-        return Craft::$app->getView()->renderTemplate('craft-commerce-laybuy/gatewaySettings', ['gateway' => $this]);
+        return Craft::$app->getView()->renderTemplate('laybuy-for-craft-commerce-2/gatewaySettings', ['gateway' => $this]);
     }
 
     /**

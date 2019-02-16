@@ -1,5 +1,9 @@
 # Release Notes for Laybuy for Craft Commerce
 
+## 1.0.3 - 2019-02-16
+### Added
+- Resolved issue with settings page
+
 ## 1.0.2 - 2019-02-10
 ### Added
 - Updated Craft plugin store details and documentation
