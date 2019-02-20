@@ -1,6 +1,10 @@
 # Release Notes for Laybuy for Craft Commerce
 
 ## 1.0.3 - 2019-02-16
+### Changed
+- Updated dependencies 
+
+## 1.0.3 - 2019-02-16
 ### Added
 - Resolved issue with settings page
 
